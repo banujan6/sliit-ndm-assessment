@@ -1,0 +1,15 @@
+.bg-network {
+    background-image: url(https://wallpapercave.com/wp/wp2044697.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-ash {
+    background-color: gainsboro;
+}
+
+.middle {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
